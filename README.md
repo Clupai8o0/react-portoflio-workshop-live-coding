@@ -768,12 +768,8 @@ export default App;
 
 > **Comment:** This final file is identical in structure/behavior to your shared `App.js`.&#x20;
 
----
+## 🙌 Credits & Bug Hunt
 
-### Tips for presenting this live
-
-* After **each step**, run the app and show the visible change (scaffold → static list → dynamic map → interactions).
-* Keep the **snippet** ready in notes to recover quickly if typing lags.
-* Emphasize **data flows down (props)** and **events bubble up (callbacks)** when you wire `onToggle`, `onAdd`, and `onDelete`.
-
-If you want, I can also export this as a **`README.md`** file formatted for your repo.
+* Credits to **Shalok** — if this helped, please **⭐ star** the repo: `https://github.com/Shalok-sys/DSEC_TO_DO_APP/`
+* 
+Think you know enough? Join the **workshop bug hunt** here: `https://github.com/Shalok-sys/DSEC_TO_DO_APP/tree/workshop-bugs`
