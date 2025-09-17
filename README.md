@@ -768,6 +768,22 @@ export default App;
 
 > **Comment:** This final file is identical in structure/behavior to your shared `App.js`.&#x20;
 
+## 🌐 GitHub & Hosting
+
+**What is GitHub?**
+
+* GitHub is an online platform for hosting and sharing code.
+* It uses **Git** (a version control system) to track changes in your projects.
+* Developers use GitHub to **collaborate, back up projects, and showcase work**.
+* It also supports **deployment** — letting you publish sites easily with **GitHub Pages** or connect to services like **Netlify**.
+
+📖 **Full Tutorial Slideshow** (Git, GitHub, Hosting, GitHub Pages & Netlify):
+👉 [Workshop Slideshow – GitHub & Hosting Guide](https://drive.google.com/file/d/1p2kTNnC4qMMpX9HAbQ5nbEoizUIt70mD/view?usp=sharing) *(Credits to Vasu for creating these slides!)*
+
+🚀 **Netlify (where we’ll host our React site):**
+👉 [https://www.netlify.com/](https://www.netlify.com/)
+
+
 ## 🙌 Credits & Bug Hunt
 
 * Credits to **Shalok** — if this helped, please **⭐ star** the repo: `https://github.com/Shalok-sys/DSEC_TO_DO_APP/`
